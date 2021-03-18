@@ -49,4 +49,3 @@ validity(){
   fi
 }
 validity $c
-
